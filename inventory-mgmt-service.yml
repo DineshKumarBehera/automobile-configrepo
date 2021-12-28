@@ -7,6 +7,6 @@ spring:
     jpa:
       show-sql: true
       generate-ddl: false
-  stock:
+stock:
     transport-type: air
     sla-days: 10
