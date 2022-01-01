@@ -9,4 +9,8 @@ spring:
       generate-ddl: false
 stock:
     transport-type: air
+<<<<<<< HEAD
     sla-days: 12
+=======
+    sla-days: 13
+>>>>>>> e6e26b0bc1735f65f11745816403b477ba5eacba
