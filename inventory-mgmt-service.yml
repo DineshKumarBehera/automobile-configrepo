@@ -9,4 +9,4 @@ spring:
       generate-ddl: false
 stock:
     transport-type: air
-    sla-days: 10
+    sla-days: 11
